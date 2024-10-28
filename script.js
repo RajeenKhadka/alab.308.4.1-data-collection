@@ -95,10 +95,3 @@ for(let i = 0; i < numCol; i++){
 
 csvFormat = csvFormat.slice(0,-2);
 console.log(csvFormat);
-
-
-
-
-
-
-
